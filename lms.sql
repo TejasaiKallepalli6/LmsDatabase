@@ -1,4 +1,3 @@
-create schema Library;
 create database lms;
 USE  lms;
 create table member(
